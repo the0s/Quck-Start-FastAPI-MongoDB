@@ -1,0 +1,7 @@
+requests
+uvicorn[standard]
+fastapi_utils
+pymongo
+python-dateutil
+fastapi
+pytest
